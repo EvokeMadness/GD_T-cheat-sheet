@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.35"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="profile-line.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="17.633475"
+     inkscape:cx="8.875165"
+     inkscape:cy="9.8392404"
+     inkscape:window-width="1920"
+     inkscape:window-height="979"
+     inkscape:window-x="360"
+     inkscape:window-y="1440"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path160"
+       d="m 5.4985791,4.4902685 c 0,-0.443694 -0.094878,-0.8371582 -0.2827735,-1.179463 C 5.0195382,2.9536181 4.7302538,2.6699146 4.3488818,2.4587646 3.9889038,2.2578466 3.5982299,2.1573876 3.1768603,2.1573876 c -0.4092773,0 -0.7915796,0.095808 -1.1459765,0.2864942 C 1.6709058,2.6373584 1.3844116,2.9071093 1.1714014,3.2512743 0.96025154,3.593579 0.85514171,4.006577 0.85514171,4.4902685 H 0.54260267 c 0,-0.5004346 0.10883052,-0.9450587 0.32742189,-1.3320117 C 1.0932667,2.7592114 1.4188281,2.4401611 1.8485693,2.2020361 2.2578466,1.974143 2.7006103,1.8597314 3.1768603,1.8597314 c 0.4632275,0 0.8966893,0.1079004 1.2985252,0.3237012 C 4.884663,2.4048144 5.2083641,2.709912 5.446489,3.0987255 5.6864743,3.4884691 5.8073973,3.9526268 5.8073973,4.4902684 Z m 0,0"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3175"
+       aria-label="k" />
+    <rect
+       style="opacity:0.75;fill:none;stroke-width:0.264999"
+       id="rect1"
+       width="6.3499999"
+       height="6.3499999"
+       x="0"
+       y="0" />
+  </g>
+</svg>
